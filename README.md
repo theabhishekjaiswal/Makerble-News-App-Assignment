@@ -45,10 +45,12 @@ This project is an Android application that fetches news articles from the [News
 ## Screenshots
 Here are some screenshots of the application:
 
-- **[Screenshot 1](https://drive.google.com/file/d/1M-CL7MU8WrqEatHzldbCA9kF_GRH0jwb/view?usp=drive_link)** 
-- **[Screenshot 2](https://drive.google.com/file/d/1Ly9ddUn1tKwc06R22np7vOXHln42PAKS/view?usp=drive_link)** 
-- **[Screenshot 3](https://drive.google.com/file/d/1LqPy2o71Wm_IxbEMXYexFhUDniNVYVKw/view?usp=drive_link)** 
-- **[Screenshot 4](https://drive.google.com/file/d/1LrGTGSdi2o3hoQXC_LmDEec2WiigmL0k/view?usp=drive_link)** 
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1M-CL7MU8WrqEatHzldbCA9kF_GRH0jwb" alt="Home Screen" width="200"/>
+  <img src="https://drive.google.com/uc?export=view&id=1Ly9ddUn1tKwc06R22np7vOXHln42PAKS" alt="Detail View" width="200"/>
+  <img src="https://drive.google.com/uc?export=view&id=1LqPy2o71Wm_IxbEMXYexFhUDniNVYVKw" alt="Bookmarks" width="200"/>
+  <img src="https://drive.google.com/uc?export=view&id=1LrGTGSdi2o3hoQXC_LmDEec2WiigmL0k" alt="Loading State" width="200"/>
+</p>
 
 ## Demo Video & APK
 - [Demo Video & APK Download](https://drive.google.com/drive/folders/1LbX2npfaeRbeEwUOspI-4X0Vx6rrpCIl?usp=drive_link)
