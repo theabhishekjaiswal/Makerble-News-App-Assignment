@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Makerble News App</string>
+    <string name="makerble_news">Makerble News</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="news">News</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="your_bookmark_is_empty">Your bookmark is empty!</string>
+</resources>
